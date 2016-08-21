@@ -1,5 +1,5 @@
 #include <ESP8266WiFi.h>                  // Include ESP8266 library
-const char* ssid = "shareEWTC";           // SSID is set
+const char* ssid = "iPhoneMaster";           // SSID is set
 const char* password = "12345abcde";   // Password is set
 #define LEDpin D0
 void setup()
